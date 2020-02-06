@@ -17,7 +17,6 @@ Sou Bacharel em Ciência da Computação com interesse nas áreas de IA, Machine
 
 * Graduação em Ciência da Computação pela UNIGRAN, Centro Universitário da Grande Dourados (2015-2019)
 
-**Background in:** Python, Machine Learning, Ciência da Computação, Javascript, C++, Arduino, ESP32.
 
 
 **Links:**
